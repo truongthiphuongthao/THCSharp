@@ -1,0 +1,10 @@
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\bin\Debug\GiaiPTBac1.exe.config
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\bin\Debug\GiaiPTBac1.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\bin\Debug\GiaiPTBac1.pdb
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\obj\Debug\GiaiPTBac1.csprojAssemblyReference.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\obj\Debug\GiaiPTBac1.Form1.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\obj\Debug\GiaiPTBac1.Properties.Resources.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\obj\Debug\GiaiPTBac1.csproj.GenerateResource.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\obj\Debug\GiaiPTBac1.csproj.CoreCompileInputs.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\obj\Debug\GiaiPTBac1.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\GiaiPTBac1\GiaiPTBac1\obj\Debug\GiaiPTBac1.pdb

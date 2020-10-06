@@ -1,0 +1,9 @@
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\bin\Debug\CacPhepToanSoHoc.exe.config
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\bin\Debug\CacPhepToanSoHoc.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\bin\Debug\CacPhepToanSoHoc.pdb
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\obj\Debug\CacPhepToanSoHoc.Form1.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\obj\Debug\CacPhepToanSoHoc.Properties.Resources.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\obj\Debug\CacPhepToanSoHoc.csproj.GenerateResource.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\obj\Debug\CacPhepToanSoHoc.csproj.CoreCompileInputs.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\obj\Debug\CacPhepToanSoHoc.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\CacPhepToanSoHoc\CacPhepToanSoHoc\obj\Debug\CacPhepToanSoHoc.pdb
