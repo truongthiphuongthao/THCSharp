@@ -1,0 +1,11 @@
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\bin\Debug\Vidu3_3.exe.config
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\bin\Debug\Vidu3_3.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\bin\Debug\Vidu3_3.pdb
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.csprojAssemblyReference.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.Form1.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.Form2.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.Properties.Resources.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.csproj.GenerateResource.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.csproj.CoreCompileInputs.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\Vidu3_3\Vidu3_3\obj\Debug\Vidu3_3.pdb
