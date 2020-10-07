@@ -1,0 +1,10 @@
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\bin\Debug\TinhDiem.exe.config
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\bin\Debug\TinhDiem.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\bin\Debug\TinhDiem.pdb
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\obj\Debug\TinhDiem.csprojAssemblyReference.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\obj\Debug\TinhDiem.Form1.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\obj\Debug\TinhDiem.Properties.Resources.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\obj\Debug\TinhDiem.csproj.GenerateResource.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\obj\Debug\TinhDiem.csproj.CoreCompileInputs.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\obj\Debug\TinhDiem.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong2\TinhDiem\TinhDiem\obj\Debug\TinhDiem.pdb

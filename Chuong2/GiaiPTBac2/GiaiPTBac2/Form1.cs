@@ -25,7 +25,7 @@ namespace GiaiPTBac2
             c = this.txtC.Text;
             double nghiem, candenta, nghiem1, nghiem2;
             double denta = Convert.ToDouble(b) * Convert.ToDouble(b) - 4 * Convert.ToDouble(a) * Convert.ToDouble(c);
-            candenta = denta / 2;
+            candenta = Math.Sqrt(denta);
             if( denta < 0 )
             {
                 txtNghiem.AppendText("Vô Nghiệm");
