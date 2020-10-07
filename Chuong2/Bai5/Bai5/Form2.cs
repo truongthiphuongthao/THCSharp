@@ -17,38 +17,86 @@ namespace Bai5
             InitializeComponent();
         }
 
-        private void btnGiai_Click(object sender, EventArgs e)
+        private void btnCong_Click(object sender, EventArgs e)
         {
-            string b, c;
-            b = this.txtB.Text;
-            c = this.txtC.Text;
-            double n_b, n_c, nghiem;
-            n_b = Convert.ToDouble(b);
-            n_c = Convert.ToDouble(c);
-            if(n_b == 0)
+            string sothu1, sothu2;
+            sothu1 = this.txtSo1.Text;
+            sothu2 = this.txtSo2.Text;
+            double n_sothu1, n_sothu2;
+            n_sothu1 = Convert.ToDouble(sothu1);
+            n_sothu2 = Convert.ToDouble(sothu2);
+            double kq;
+            kq = Math.Round((n_sothu1 + n_sothu2), 2);
+            txtKQ.AppendText(kq.ToString());
+
+        }
+
+        private void btnTru_Click(object sender, EventArgs e)
+        {
+            string sothu1, sothu2;
+            sothu1 = this.txtSo1.Text;
+            sothu2 = this.txtSo2.Text;
+            double n_sothu1, n_sothu2;
+            n_sothu1 = Convert.ToDouble(sothu1);
+            n_sothu2 = Convert.ToDouble(sothu2);
+            double kq;
+            kq = Math.Round((n_sothu1 - n_sothu2), 2);
+            txtKQ.AppendText(kq.ToString());
+        }
+
+        private void btnNhan_Click(object sender, EventArgs e)
+        {
+            string sothu1, sothu2;
+            sothu1 = this.txtSo1.Text;
+            sothu2 = this.txtSo2.Text;
+            double n_sothu1, n_sothu2;
+            n_sothu1 = Convert.ToDouble(sothu1);
+            n_sothu2 = Convert.ToDouble(sothu2);
+            double kq;
+            kq = Math.Round((n_sothu1 * n_sothu2), 2);
+            txtKQ.AppendText(kq.ToString());
+        }
+
+        private void btnchia_Click(object sender, EventArgs e)
+        {
+            string sothu1, sothu2;
+            sothu1 = this.txtSo1.Text;
+            sothu2 = this.txtSo2.Text;
+            double n_sothu1, n_sothu2;
+            n_sothu1 = Convert.ToDouble(sothu1);
+            n_sothu2 = Convert.ToDouble(sothu2);
+            if(n_sothu2 == 0)
             {
-                if (n_c == 0)
-                {
-                    txtNghiem.AppendText("Vô Số Nghiệm");
-                }
-                else
-                {
-                    txtNghiem.AppendText("Vô Nghiệm");
-                }
+                MessageBox.Show("Số phải lớn hơn 0");
+                txtSo2.Clear();
+                //txtKQ.Clear();
+                txtSo2.Focus();
             }
             else
             {
-                nghiem = Math.Round(-(n_c) / (n_b), 2);
-                txtNghiem.AppendText(nghiem.ToString());
+                double kq;
+                kq = Math.Round((n_sothu1 / n_sothu2), 2);
+                txtKQ.AppendText(kq.ToString());
             }
+            
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            this.txtB.Clear();
-            this.txtC.Clear();
-            this.txtNghiem.Clear();
-            this.txtB.Focus();
+            this.txtSo1.Clear();
+            this.txtSo2.Clear();
+            this.txtKQ.Clear();
+            this.txtSo1.Focus();
+        }
+
+        private void btnDung_Click(object sender, EventArgs e)
+        {
+            DialogResult traloi;
+            traloi = MessageBox.Show("\rBạn có muốn thoát ?","Trả lời",  MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if( traloi == DialogResult.OK)
+            {
+                Application.Exit();
+            }
         }
 
         private void btnTroVe_Click(object sender, EventArgs e)
