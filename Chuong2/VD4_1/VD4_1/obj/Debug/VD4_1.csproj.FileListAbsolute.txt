@@ -1,0 +1,9 @@
+D:\Baith\VD4_1\VD4_1\bin\Debug\VD4_1.exe.config
+D:\Baith\VD4_1\VD4_1\bin\Debug\VD4_1.exe
+D:\Baith\VD4_1\VD4_1\bin\Debug\VD4_1.pdb
+D:\Baith\VD4_1\VD4_1\obj\Debug\VD4_1.csprojResolveAssemblyReference.cache
+D:\Baith\VD4_1\VD4_1\obj\Debug\VD4_1.Form1.resources
+D:\Baith\VD4_1\VD4_1\obj\Debug\VD4_1.Properties.Resources.resources
+D:\Baith\VD4_1\VD4_1\obj\Debug\VD4_1.csproj.GenerateResource.Cache
+D:\Baith\VD4_1\VD4_1\obj\Debug\VD4_1.exe
+D:\Baith\VD4_1\VD4_1\obj\Debug\VD4_1.pdb

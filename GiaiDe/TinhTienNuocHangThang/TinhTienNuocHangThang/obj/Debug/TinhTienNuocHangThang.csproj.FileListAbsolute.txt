@@ -1,0 +1,10 @@
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\bin\Debug\TinhTienNuocHangThang.exe.config
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\bin\Debug\TinhTienNuocHangThang.exe
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\bin\Debug\TinhTienNuocHangThang.pdb
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\obj\Debug\TinhTienNuocHangThang.csprojAssemblyReference.cache
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\obj\Debug\TinhTienNuocHangThang.Form1.resources
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\obj\Debug\TinhTienNuocHangThang.Properties.Resources.resources
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\obj\Debug\TinhTienNuocHangThang.csproj.GenerateResource.cache
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\obj\Debug\TinhTienNuocHangThang.csproj.CoreCompileInputs.cache
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\obj\Debug\TinhTienNuocHangThang.exe
+C:\Users\truongthao\source\repos\TinhTienNuocHangThang\TinhTienNuocHangThang\obj\Debug\TinhTienNuocHangThang.pdb

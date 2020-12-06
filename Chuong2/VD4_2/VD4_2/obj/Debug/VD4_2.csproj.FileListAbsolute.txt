@@ -1,0 +1,8 @@
+D:\Baith\VD4_2\VD4_2\bin\Debug\VD4_2.exe.config
+D:\Baith\VD4_2\VD4_2\bin\Debug\VD4_2.exe
+D:\Baith\VD4_2\VD4_2\bin\Debug\VD4_2.pdb
+D:\Baith\VD4_2\VD4_2\obj\Debug\VD4_2.Form1.resources
+D:\Baith\VD4_2\VD4_2\obj\Debug\VD4_2.Properties.Resources.resources
+D:\Baith\VD4_2\VD4_2\obj\Debug\VD4_2.csproj.GenerateResource.Cache
+D:\Baith\VD4_2\VD4_2\obj\Debug\VD4_2.exe
+D:\Baith\VD4_2\VD4_2\obj\Debug\VD4_2.pdb

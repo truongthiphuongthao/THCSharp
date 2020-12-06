@@ -1,0 +1,8 @@
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\bin\Debug\ChucMungNamMoi.exe.config
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\bin\Debug\ChucMungNamMoi.exe
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\bin\Debug\ChucMungNamMoi.pdb
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\obj\Debug\ChucMungNamMoi.Form1.resources
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\obj\Debug\ChucMungNamMoi.Properties.Resources.resources
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\obj\Debug\ChucMungNamMoi.csproj.GenerateResource.Cache
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\obj\Debug\ChucMungNamMoi.exe
+D:\Baith\ChucMungNamMoi\ChucMungNamMoi\obj\Debug\ChucMungNamMoi.pdb
