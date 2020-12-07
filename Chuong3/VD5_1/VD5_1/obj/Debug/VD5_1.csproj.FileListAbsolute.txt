@@ -1,0 +1,10 @@
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\bin\Debug\VD5_1.exe.config
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\bin\Debug\VD5_1.exe
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\bin\Debug\VD5_1.pdb
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\obj\Debug\VD5_1.csprojAssemblyReference.cache
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\obj\Debug\VD5_1.Form1.resources
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\obj\Debug\VD5_1.Properties.Resources.resources
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\obj\Debug\VD5_1.csproj.GenerateResource.cache
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\obj\Debug\VD5_1.csproj.CoreCompileInputs.cache
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\obj\Debug\VD5_1.exe
+C:\Users\truongthao\source\repos\VD5_1\VD5_1\obj\Debug\VD5_1.pdb
