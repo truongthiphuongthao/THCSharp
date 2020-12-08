@@ -1,0 +1,13 @@
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\bin\Debug\netcoreapp3.1\ThamChieuThamTri.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\bin\Debug\netcoreapp3.1\ThamChieuThamTri.deps.json
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\bin\Debug\netcoreapp3.1\ThamChieuThamTri.runtimeconfig.json
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\bin\Debug\netcoreapp3.1\ThamChieuThamTri.runtimeconfig.dev.json
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\bin\Debug\netcoreapp3.1\ThamChieuThamTri.dll
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\bin\Debug\netcoreapp3.1\ThamChieuThamTri.pdb
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\obj\Debug\netcoreapp3.1\ThamChieuThamTri.csprojAssemblyReference.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\obj\Debug\netcoreapp3.1\ThamChieuThamTri.AssemblyInfoInputs.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\obj\Debug\netcoreapp3.1\ThamChieuThamTri.AssemblyInfo.cs
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\obj\Debug\netcoreapp3.1\ThamChieuThamTri.csproj.CoreCompileInputs.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\obj\Debug\netcoreapp3.1\ThamChieuThamTri.dll
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\obj\Debug\netcoreapp3.1\ThamChieuThamTri.pdb
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\ThamChieuThamTri\ThamChieuThamTri\obj\Debug\netcoreapp3.1\ThamChieuThamTri.genruntimeconfig.cache

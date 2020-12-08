@@ -1,0 +1,10 @@
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\bin\Debug\Bai1_VD6.exe.config
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\bin\Debug\Bai1_VD6.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\bin\Debug\Bai1_VD6.pdb
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\obj\Debug\Bai1_VD6.csprojAssemblyReference.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\obj\Debug\Bai1_VD6.Form1.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\obj\Debug\Bai1_VD6.Properties.Resources.resources
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\obj\Debug\Bai1_VD6.csproj.GenerateResource.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\obj\Debug\Bai1_VD6.csproj.CoreCompileInputs.cache
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\obj\Debug\Bai1_VD6.exe
+D:\PTUDWD\THCSharp-20200928T134042Z-001\THCSharp\Nhom1\Chuong3\Bai1_VD6\Bai1_VD6\obj\Debug\Bai1_VD6.pdb
